@@ -1,0 +1,1 @@
+let codigo_de_verificacion: number | string;
