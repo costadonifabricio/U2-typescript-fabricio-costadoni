@@ -22,9 +22,9 @@ class ElectricCar extends Carros {
     }
 }
 
-let myCarro = new Carros("Toyota");
-console.log(myCarro.marca);
-console.log(myCarro.getMarca());
+let myCarros = new Carros("Toyota");
+console.log(myCarros.marca);
+console.log(myCarros.getMarca());
 myCarro.drive();
 
   
